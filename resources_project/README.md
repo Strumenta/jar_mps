@@ -9,5 +9,5 @@ gradle jar
 and then copy the jar:
 
 ```bash
-cp build/libs/resources_project.jar ../solutions/com.strumenta.examples.external/libs/
+cp build/libs/resources_project.jar ../IconsProject/solutions/com.strumenta.examples.external/libs/
 ```
