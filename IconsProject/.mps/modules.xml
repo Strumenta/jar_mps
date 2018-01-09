@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/solutions/IconsProject.build/IconsProject.build.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.strumenta.examples.external/com.strumenta.examples.external.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
