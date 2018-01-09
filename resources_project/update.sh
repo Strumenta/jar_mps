@@ -1,1 +1,1 @@
-gradle jar && cp build/libs/resources_project.jar ../solutions/com.strumenta.examples.external/lib
+gradle jar && cp build/libs/resources_project.jar ../IconsProject/solutions/com.strumenta.examples.external/lib
