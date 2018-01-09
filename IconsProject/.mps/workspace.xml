@@ -30,7 +30,7 @@
       <list>
         <TabState>
           <option name="title" value="Console" />
-          <option name="history" value="kaurqQAABAAHKOY83dM2tUfThI9RhvaruH0AABlUZW1wTW9kZWxfMTcwOTA4MTgwNDEzNzAyF0gLOoR5eTRA7KtQBm5wvL1uAAAuVGVtcE1vZHVsZTBiM2E4NDc5LTc5MzQtNDBlYy1hYjUwLTA2NmU3MGJjYmQ2Zf////+rq6urWlpaWgAD8wYaU5ImTMWkQ/lSzq9YFgAAGmpldGJyYWlucy5tcHMuYmFzZUxhbmd1YWdlAAUAAAEYFUpjMgAAG0luc3RhbmNlTWV0aG9kQ2FsbE9wZXJhdGlvbgISAAAAAAAAAAABFrRqCMQAAA1Eb3RFeHByZXNzaW9uAhIAAAAAAAIAAAEWtGpEFgAAB29wZXJhbmQAAAABFrRrNsQAAAlvcGVyYXRpb24AAAAA+UDICEYAABRTdGF0aWNGaWVsZFJlZmVyZW5jZQISAAAAAQAAAQp1hp+bAAAKY2xhc3NpZmllcgAAAAAA+Md/HpgAABFWYXJpYWJsZVJlZmVyZW5jZQISAAAAAQAAAPjMa/lgAAATdmFyaWFibGVEZWNsYXJhdGlvbgAAAAABGFc1WVIAAAtJTWV0aG9kQ2FsbAASAAAAAQAAAPjHgwGtAAAVYmFzZU1ldGhvZERlY2xhcmF0aW9uAADOq1GVJepPIpuSEDuVyowMAAAXamV0YnJhaW5zLm1wcy5sYW5nLmNvcmUAAQAAARA5bqqkAAANSU5hbWVkQ29uY2VwdAASAAEAAAEQOW7AQQAABG5hbWUAAAAA3hrYbW5QSgKzBtTRf2TDdQAAGmpldGJyYWlucy5tcHMuY29uc29sZS5iYXNlAAhsiVT0aafEIAAAF0Fic3RyYWN0UHJpbnRFeHByZXNzaW9uABIAAAAAAAF0F8yj6x/3YQAABm9iamVjdAAV+zQFH3JaLAAAC0NvbnNvbGVSb290ABIAAAAAAAIV+zQFH3JbrwAAB2hpc3RvcnkAFfs0BR9yW7EAAA1jb21tYW5kSG9sZGVyAGpAo1llYKnZAAAMQkxFeHByZXNzaW9uABIAAAAAAAFqQKNZZWCqQgAACmV4cHJlc3Npb24AdBfMo+sf7KkAABNQcmludFRleHRFeHByZXNzaW9uABIAAAAAAAAE4nFgrLRISwAADUNvbW1hbmRIb2xkZXIAEgAAAAAAAQTicWCstEkkAAAHY29tbWFuZABOOwNRcbNcOAAAEFRleHRSZXNwb25zZUl0ZW0AEgABTjsDUXGzXREAAAR0ZXh0AAAAAE47A1FxpboCAAAIUmVzcG9uc2UAEgAAAAAAAU47A1Fxs1btAAAEaXRlbQAKg18owaoCvgAAB0hpc3RvcnkAEgAAAAAAAWPaM3krXfSaAQAAAB4ApaWlpQAE3hrYbW5QSgKzBtTRf2TDdQEAAAAQpeTeU0ajRNqqs2j98cNO0AAAIWpldGJyYWlucy5tcHMuY29uc29sZS5pZGVDb21tYW5kc/JmkdIN70wGrsYsuQxK8KQAAB1qZXRicmFpbnMubXBzLmNvbnNvbGUuc2NyaXB0c5lac5R/dkuLqSnFNEhwgQYAACZqZXRicmFpbnMubXBzLmNvbnNvbGUuaW50ZXJuYWxDb21tYW5kcwAAAAEXSPvCXdJdpEg6ixlwko4bYtcAACRqZXRicmFpbnMubXBzLmRldmtpdC5nZW5lcmFsLXB1cnBvc2UAAAAGByg1mx0rd8RG35vysly+oyJUAAAkamV0YnJhaW5zLm1wcy5jb25zb2xlLmJhc2Uuc3RydWN0dXJlcP////8HKBNaYG8DdkxcmrhAMPBRoGIAACtqZXRicmFpbnMubXBzLmNvbnNvbGUuaWRlQ29tbWFuZHMuc3RydWN0dXJlcP////8HKOcS81NcPEKIrc6HyValL/sAACdqZXRicmFpbnMubXBzLmNvbnNvbGUuc2NyaXB0cy5zdHJ1Y3R1cmVw/////wcokERSBqlzTB23YDDlx3t0lwAAMGpldGJyYWlucy5tcHMuY29uc29sZS5pbnRlcm5hbENvbW1hbmRzLnN0cnVjdHVyZXD/////ByYAACFqYXZhOmNvbS5zdHJ1bWVudGEuZXhhbXBsZXMuaWNvbnMAACZjb20uc3RydW1lbnRhLmV4YW1wbGVzLmljb25zQGphdmFfc3R1YhdIZjfxYhocS3agSTjTAlWEcgAAH2NvbS5zdHJ1bWVudGEuZXhhbXBsZXMuZXh0ZXJuYWz/////ByYAABBqYXZhOmphdmF4LnN3aW5nAAAVamF2YXguc3dpbmdAamF2YV9zdHViF0hjVOvnwipKD6xUULUqubBlAAADSkRL/////7q6uroAAAABAAcYAlfr5DyCnNL//3sAAAAAAAAAAAACAA0YAlfr5DyCnNMAA3sAAAAAAAAAAAACAAoYAlfr5DyCnNQACHsAAQAAAQAAABkAAAAAAAAAAQAIGAJX6+Q8gpzVAAZ7AAAAAAAAAAAAAQAJGAJX6+Q8gpzWAAV7AAAAAAAAAAAAAQABGAJX6+Q8gpzXAAJ7AAAAAAAAAAAAAgACGAJX6+Q8gpzYAAB7AAAAAAACAAEBFwAAE35FeGFtcGxlc0ljb25zLk1BSU4SCQAAAAUAAARNQUlOAAABFwAADn5FeGFtcGxlc0ljb25zEgkAAAAFAAANRXhhbXBsZXNJY29ucwAAAAB9AAAYAlfr5DyCnNkAAXsAAAAAAAEAAgEXAAAsfkltYWdlSWNvbi5nZXREZXNjcmlwdGlvbigpOmphdmEubGFuZy5TdHJpbmcSCQAAAAYAAA5nZXREZXNjcmlwdGlvbgAAAAB9fX19fQAMGAJX6+Q8gpzaAAh7AAAAAAAAAAAAAQALGAJX6+Q8gpzbAAd7AAEAAQAACU1haW4gSWNvbgAAAAAAAAAAfX19AAoYAlfr5DyCnNwABHsAAQAAAQAAABkAAAAAAAAAAH19" />
+          <option name="history" value="kaurqQAABAAHKBmS4VriwU7Oo4/rr1TB0MUAABlUZW1wTW9kZWxfMTc5MTkyMTQyNjgwNTk0F0jEk8lC2chICL9Ayd5XggV/AAAuVGVtcE1vZHVsZWM0OTNjOTQyLWQ5YzgtNDgwOC1iZjQwLWM5ZGU1NzgyMDU3Zv////+rq6urWlpaWgAD8wYaU5ImTMWkQ/lSzq9YFgAAGmpldGJyYWlucy5tcHMuYmFzZUxhbmd1YWdlAAUAAAEYFUpjMgAAG0luc3RhbmNlTWV0aG9kQ2FsbE9wZXJhdGlvbgISAAAAAAAAAAABFrRqCMQAAA1Eb3RFeHByZXNzaW9uAhIAAAAAAAIAAAEWtGpEFgAAB29wZXJhbmQAAAABFrRrNsQAAAlvcGVyYXRpb24AAAAA+UDICEYAABRTdGF0aWNGaWVsZFJlZmVyZW5jZQISAAAAAQAAAQp1hp+bAAAKY2xhc3NpZmllcgAAAAAA+Md/HpgAABFWYXJpYWJsZVJlZmVyZW5jZQISAAAAAQAAAPjMa/lgAAATdmFyaWFibGVEZWNsYXJhdGlvbgAAAAABGFc1WVIAAAtJTWV0aG9kQ2FsbAASAAAAAQAAAPjHgwGtAAAVYmFzZU1ldGhvZERlY2xhcmF0aW9uAADOq1GVJepPIpuSEDuVyowMAAAXamV0YnJhaW5zLm1wcy5sYW5nLmNvcmUAAQAAARA5bqqkAAANSU5hbWVkQ29uY2VwdAASAAEAAAEQOW7AQQAABG5hbWUAAAAA3hrYbW5QSgKzBtTRf2TDdQAAGmpldGJyYWlucy5tcHMuY29uc29sZS5iYXNlAAhsiVT0aafEIAAAF0Fic3RyYWN0UHJpbnRFeHByZXNzaW9uABIAAAAAAAF0F8yj6x/3YQAABm9iamVjdAAV+zQFH3JaLAAAC0NvbnNvbGVSb290ABIAAAAAAAIV+zQFH3JbrwAAB2hpc3RvcnkAFfs0BR9yW7EAAA1jb21tYW5kSG9sZGVyAGpAo1llYKnZAAAMQkxFeHByZXNzaW9uABIAAAAAAAFqQKNZZWCqQgAACmV4cHJlc3Npb24AdBfMo+sf7KkAABNQcmludFRleHRFeHByZXNzaW9uABIAAAAAAAAE4nFgrLRISwAADUNvbW1hbmRIb2xkZXIAEgAAAAAAAQTicWCstEkkAAAHY29tbWFuZABOOwNRcbNcOAAAEFRleHRSZXNwb25zZUl0ZW0AEgABTjsDUXGzXREAAAR0ZXh0AAAAAE47A1FxpboCAAAIUmVzcG9uc2UAEgAAAAAAAU47A1Fxs1btAAAEaXRlbQAKg18owaoCvgAAB0hpc3RvcnkAEgAAAAAAAWPaM3krXfSaAQAAAB4ApaWlpQAE3hrYbW5QSgKzBtTRf2TDdQEAAAAQ8maR0g3vTAauxiy5DErwpAAAHWpldGJyYWlucy5tcHMuY29uc29sZS5zY3JpcHRzpeTeU0ajRNqqs2j98cNO0AAAIWpldGJyYWlucy5tcHMuY29uc29sZS5pZGVDb21tYW5kc5lac5R/dkuLqSnFNEhwgQYAACZqZXRicmFpbnMubXBzLmNvbnNvbGUuaW50ZXJuYWxDb21tYW5kcwAAAAEXSPvCXdJdpEg6ixlwko4bYtcAACRqZXRicmFpbnMubXBzLmRldmtpdC5nZW5lcmFsLXB1cnBvc2UAAAAGByg1mx0rd8RG35vysly+oyJUAAAkamV0YnJhaW5zLm1wcy5jb25zb2xlLmJhc2Uuc3RydWN0dXJlcP////8HKOcS81NcPEKIrc6HyValL/sAACdqZXRicmFpbnMubXBzLmNvbnNvbGUuc2NyaXB0cy5zdHJ1Y3R1cmVw/////wcoE1pgbwN2TFyauEAw8FGgYgAAK2pldGJyYWlucy5tcHMuY29uc29sZS5pZGVDb21tYW5kcy5zdHJ1Y3R1cmVw/////wcokERSBqlzTB23YDDlx3t0lwAAMGpldGJyYWlucy5tcHMuY29uc29sZS5pbnRlcm5hbENvbW1hbmRzLnN0cnVjdHVyZXD/////ByYAACFqYXZhOmNvbS5zdHJ1bWVudGEuZXhhbXBsZXMuaWNvbnMAACZjb20uc3RydW1lbnRhLmV4YW1wbGVzLmljb25zQGphdmFfc3R1YhdIZjfxYhocS3agSTjTAlWEcgAAH2NvbS5zdHJ1bWVudGEuZXhhbXBsZXMuZXh0ZXJuYWz/////ByYAABBqYXZhOmphdmF4LnN3aW5nAAAVamF2YXguc3dpbmdAamF2YV9zdHViF0hjVOvnwipKD6xUULUqubBlAAADSkRL/////7q6uroAAAABAAcYLtIvK1G845///3sAAAAAAAAAAAACAA0YLtIvK1G846AAA3sAAAAAAAAAAAACAAoYLtIvK1G846EACHsAAQAAAQAAABkAAAAAAAAAAQAIGC7SLytRvOOiAAZ7AAAAAAAAAAAAAQAJGC7SLytRvOOjAAV7AAAAAAAAAAAAAQABGC7SLytRvOOkAAJ7AAAAAAAAAAAAAgACGC7SLytRvOOlAAB7AAAAAAACAAEBFwAAE35FeGFtcGxlc0ljb25zLk1BSU4SCQAAAAUAAARNQUlOAAABFwAADn5FeGFtcGxlc0ljb25zEgkAAAAFAAANRXhhbXBsZXNJY29ucwAAAAB9AAAYLtIvK1G846YAAXsAAAAAAAEAAgEXAAAsfkltYWdlSWNvbi5nZXREZXNjcmlwdGlvbigpOmphdmEubGFuZy5TdHJpbmcSCQAAAAYAAA5nZXREZXNjcmlwdGlvbgAAAAB9fX19fQAMGC7SLytRvOOnAAh7AAAAAAAAAAAAAQALGC7SLytRvOOoAAd7AAEAAQAACU1haW4gSWNvbgAAAAAAAAAAfX19AAoYLtIvK1G846kABHsAAQAAAQAAABkAAAAAAAAAAH19" />
         </TabState>
       </list>
     </option>
@@ -51,36 +51,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="IconsProject" pinned="false" current-in-tab="false">
-        <entry file="mps://node://IconsProject.build/IconsProject.build/IconsProject">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="59" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="ALIAS_EDITOR_COMPONENT" cellNumber="0" isInList="false">
-                      <node node_reference="r:f2f0aba9-d70d-4b9e-ad2e-abb5c5ea0e99(IconsProject.build)/4601557692609550242" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ExamplesIcons" pinned="false" current-in-tab="true">
         <entry file="mps://node://com.strumenta.examples.external/com.strumenta.examples.icons@java_stub/ExamplesIcons">
           <provider selected="true" editor-type-id="MPSFileEditor">
@@ -338,16 +308,40 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/IconsProject.build/IconsProject.build.msd" />
+              <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="IconsProject" />
+              <option name="myItemId" value="$PROJECT_DIR$/solutions/com.strumenta.examples.external/com.strumenta.examples.external.msd" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:f2f0aba9-d70d-4b9e-ad2e-abb5c5ea0e99(IconsProject.build) in IdeaFile{file://C:/Users/Gabriele/MPSProjects/IconsProject/solutions/IconsProject.build/models/IconsProject/build.mps}" />
+              <option name="myItemId" value="stubs" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/solutions/com.strumenta.examples.external/com.strumenta.examples.external.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stubs" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jetbrains.mps.persistence.java.library.JavaClassStubModelDescriptor@1360b5b" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -379,94 +373,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/com.strumenta.examples.external/com.strumenta.examples.external.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stubs" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jetbrains.mps.persistence.java.library.JavaClassStubModelDescriptor@23a736" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/IconsProject.build/IconsProject.build.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IconsProject" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/IconsProject.build/IconsProject.build.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/com.strumenta.examples.external/com.strumenta.examples.external.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stubs" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <SELECTED>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/IconsProject.build/IconsProject.build.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IconsProject" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:f2f0aba9-d70d-4b9e-ad2e-abb5c5ea0e99(IconsProject.build) in IdeaFile{file://C:/Users/Gabriele/MPSProjects/IconsProject/solutions/IconsProject.build/models/IconsProject/build.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4601557692609550225" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </SELECTED>
         </subPane>
       </pane>
       <pane id="Favorites" />
@@ -530,6 +436,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.mbeddr.mpsutil.multilingual.concept.runtime.plugin.MultilingualConceptProjectPlugin_CustomProjectPlugin.showTranslations" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Build Script.IconsProject">
     <configuration default="false" name="IconsProject" type="Build Script" factoryName="Build Script" temporary="true">
@@ -750,6 +657,24 @@
             <transactionalProperties />
             <collapsed />
           </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://IconsProject.build/IconsProject.build/IconsProject">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
           <inspectorMemento currentlyEditedNode="r:f2f0aba9-d70d-4b9e-ad2e-abb5c5ea0e99(IconsProject.build)/4601557692609550242" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
@@ -782,11 +707,15 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="6637f162-1a1c-4b76-a049-38d302558472/java:com.strumenta.examples.icons(com.strumenta.examples.external/)/6472404425846579762" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
             <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
           </inspectorMemento>
         </state>
       </provider>
