@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<debug-info>
-  <root nodeRef="r:f2f0aba9-d70d-4b9e-ad2e-abb5c5ea0e99(IconsProject.build)/4601557692609550225">
+<debug-info version="2">
+  <root nodeRef="r:f1b55677-0bf7-46ea-af51-1e1fc5c7f54c(IconsProject.build)/7644064234543924938">
     <file name="IconsProject.xml">
-      <unit id="4601557692609550225" at="1,0,198,10" name="IconsProject.build.IconsProject" />
+      <unit id="7644064234543924938" at="1,0,141,10" name="IconsProject.build.IconsProject" />
     </file>
   </root>
 </debug-info>

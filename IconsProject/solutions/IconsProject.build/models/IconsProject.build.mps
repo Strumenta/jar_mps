@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:f2f0aba9-d70d-4b9e-ad2e-abb5c5ea0e99(IconsProject.build)">
+<model ref="r:f1b55677-0bf7-46ea-af51-1e1fc5c7f54c(IconsProject.build)">
   <persistence version="9" />
   <languages>
     <use id="798100da-4f0a-421a-b991-71f8c50ce5d2" name="jetbrains.mps.build" version="0" />
-    <use id="0cf935df-4699-4e9c-a132-fa109541cba3" name="jetbrains.mps.build.mps" version="1" />
+    <use id="0cf935df-4699-4e9c-a132-fa109541cba3" name="jetbrains.mps.build.mps" version="5" />
   </languages>
   <imports>
     <import index="ffeo" ref="r:874d959d-e3b4-4d04-b931-ca849af130dd(jetbrains.mps.ide.build)" />
+    <import index="kn9q" ref="r:f1b55677-0bf7-46ea-af51-1e1fc5c7f54c(IconsProject.build)" />
   </imports>
   <registry>
     <language id="798100da-4f0a-421a-b991-71f8c50ce5d2" name="jetbrains.mps.build">
@@ -104,44 +105,44 @@
       </concept>
     </language>
   </registry>
-  <node concept="1l3spW" id="3Zs15txtluh">
+  <node concept="1l3spW" id="6ClaYJsg$ra">
     <property role="TrG5h" value="IconsProject" />
     <property role="2DA0ip" value="../../" />
-    <node concept="10PD9b" id="3Zs15txtlui" role="10PD9s" />
-    <node concept="3b7kt6" id="3Zs15txtluj" role="10PD9s" />
-    <node concept="398rNT" id="3Zs15txtluk" role="1l3spd">
+    <node concept="10PD9b" id="6ClaYJsg$rb" role="10PD9s" />
+    <node concept="3b7kt6" id="6ClaYJsg$rc" role="10PD9s" />
+    <node concept="398rNT" id="6ClaYJsg$rd" role="1l3spd">
       <property role="TrG5h" value="mps_home" />
     </node>
-    <node concept="2sgV4H" id="3Zs15txtlul" role="1l3spa">
+    <node concept="2sgV4H" id="6ClaYJsg$re" role="1l3spa">
       <ref role="1l3spb" to="ffeo:3IKDaVZmzS6" resolve="mps" />
-      <node concept="398BVA" id="3Zs15txtlum" role="2JcizS">
-        <ref role="398BVh" node="3Zs15txtluk" resolve="mps_home" />
+      <node concept="398BVA" id="6ClaYJsg$rf" role="2JcizS">
+        <ref role="398BVh" node="6ClaYJsg$rd" resolve="mps_home" />
       </node>
     </node>
-    <node concept="1l3spV" id="3Zs15txtluH" role="1l3spN">
-      <node concept="3981dG" id="3Zs15txtluI" role="39821P">
-        <node concept="3_J27D" id="3Zs15txtluJ" role="Nbhlr">
-          <node concept="3Mxwew" id="3Zs15txtluK" role="3MwsjC">
+    <node concept="1l3spV" id="6ClaYJsg$rw" role="1l3spN">
+      <node concept="3981dG" id="6ClaYJsg$rx" role="39821P">
+        <node concept="3_J27D" id="6ClaYJsg$ry" role="Nbhlr">
+          <node concept="3Mxwew" id="6ClaYJsg$rz" role="3MwsjC">
             <property role="3MwjfP" value="IconsProject.zip" />
           </node>
         </node>
-        <node concept="m$_wl" id="3Zs15txtluL" role="39821P">
-          <ref role="m_rDy" node="3Zs15txtlu$" resolve="IconsProject" />
-          <node concept="398223" id="3Zs15txtlN2" role="39821P">
-            <node concept="3_J27D" id="3Zs15txtlN5" role="Nbhlr">
-              <node concept="3Mxwew" id="3Zs15txtlNn" role="3MwsjC">
+        <node concept="m$_wl" id="6ClaYJsg$r$" role="39821P">
+          <ref role="m_rDy" node="6ClaYJsg$rn" resolve="IconsProject" />
+          <node concept="398223" id="6ClaYJsg$xp" role="39821P">
+            <node concept="3_J27D" id="6ClaYJsg$xq" role="Nbhlr">
+              <node concept="3Mxwew" id="6ClaYJsg$xA" role="3MwsjC">
                 <property role="3MwjfP" value="libs" />
               </node>
             </node>
-            <node concept="28jJK3" id="3Zs15txtlXL" role="39821P">
-              <node concept="55IIr" id="3Zs15txtlXM" role="28jJRO">
-                <node concept="2Ry0Ak" id="3Zs15txtlY3" role="iGT6I">
+            <node concept="28jJK3" id="6ClaYJsg$xC" role="39821P">
+              <node concept="55IIr" id="6ClaYJsg$xD" role="28jJRO">
+                <node concept="2Ry0Ak" id="6ClaYJsg$xQ" role="iGT6I">
                   <property role="2Ry0Am" value="solutions" />
-                  <node concept="2Ry0Ak" id="3Zs15txtlY8" role="2Ry0An">
+                  <node concept="2Ry0Ak" id="6ClaYJsg$xV" role="2Ry0An">
                     <property role="2Ry0Am" value="com.strumenta.examples.external" />
-                    <node concept="2Ry0Ak" id="3Zs15txtlYf" role="2Ry0An">
+                    <node concept="2Ry0Ak" id="6ClaYJsg$xY" role="2Ry0An">
                       <property role="2Ry0Am" value="libs" />
-                      <node concept="2Ry0Ak" id="3Zs15txtlYk" role="2Ry0An">
+                      <node concept="2Ry0Ak" id="6ClaYJsg$y3" role="2Ry0An">
                         <property role="2Ry0Am" value="resources_project.jar" />
                       </node>
                     </node>
@@ -153,76 +154,64 @@
         </node>
       </node>
     </node>
-    <node concept="m$_wf" id="3Zs15txtlu$" role="3989C9">
+    <node concept="m$_wf" id="6ClaYJsg$rn" role="3989C9">
       <property role="m$_wk" value="IconsProject" />
-      <node concept="3_J27D" id="3Zs15txtlu_" role="m$_yQ">
-        <node concept="3Mxwew" id="3Zs15txtluA" role="3MwsjC">
+      <node concept="3_J27D" id="6ClaYJsg$ro" role="m$_yQ">
+        <node concept="3Mxwew" id="6ClaYJsg$rp" role="3MwsjC">
           <property role="3MwjfP" value="IconsProject" />
         </node>
       </node>
-      <node concept="3_J27D" id="3Zs15txtluB" role="m$_w8">
-        <node concept="3Mxwew" id="3Zs15txtluC" role="3MwsjC">
+      <node concept="3_J27D" id="6ClaYJsg$rq" role="m$_w8">
+        <node concept="3Mxwew" id="6ClaYJsg$rr" role="3MwsjC">
           <property role="3MwjfP" value="1.0" />
         </node>
       </node>
-      <node concept="m$f5U" id="3Zs15txtluD" role="m$_yh">
-        <ref role="m$f5T" node="3Zs15txtluz" resolve="IconsProject" />
+      <node concept="m$f5U" id="6ClaYJsg$rs" role="m$_yh">
+        <ref role="m$f5T" node="6ClaYJsg$rm" resolve="IconsProject" />
       </node>
-      <node concept="m$_yC" id="3Zs15txtluE" role="m$_yJ">
+      <node concept="m$_yC" id="6ClaYJsg$rt" role="m$_yJ">
         <ref role="m$_y1" to="ffeo:4k71ibbKLe8" resolve="jetbrains.mps.core" />
       </node>
-      <node concept="3_J27D" id="3Zs15txtluF" role="m_cZH">
-        <node concept="3Mxwew" id="3Zs15txtluG" role="3MwsjC">
+      <node concept="3_J27D" id="6ClaYJsg$ru" role="m_cZH">
+        <node concept="3Mxwew" id="6ClaYJsg$rv" role="3MwsjC">
           <property role="3MwjfP" value="IconsProject" />
         </node>
       </node>
     </node>
-    <node concept="2G$12M" id="3Zs15txtluz" role="3989C9">
+    <node concept="2G$12M" id="6ClaYJsg$rm" role="3989C9">
       <property role="TrG5h" value="IconsProject" />
-      <node concept="1E1JtA" id="3Zs15txtluy" role="2G$12L">
+      <node concept="1E1JtA" id="6ClaYJsg$rl" role="2G$12L">
         <property role="BnDLt" value="true" />
         <property role="TrG5h" value="com.strumenta.examples.external" />
-        <property role="3LESm3" value="6637f162-1a1c-4b76-a049-38d302558472" />
+        <property role="3LESm3" value="fe14378c-3320-4dbb-80b3-4bb3b5cf38b8" />
         <property role="2GAjPV" value="false" />
-        <node concept="55IIr" id="3Zs15txtlut" role="3LF7KH">
-          <node concept="2Ry0Ak" id="3Zs15txtluu" role="iGT6I">
+        <node concept="55IIr" id="6ClaYJsg$rg" role="3LF7KH">
+          <node concept="2Ry0Ak" id="6ClaYJsg$rh" role="iGT6I">
             <property role="2Ry0Am" value="solutions" />
-            <node concept="2Ry0Ak" id="3Zs15txtluv" role="2Ry0An">
+            <node concept="2Ry0Ak" id="6ClaYJsg$ri" role="2Ry0An">
               <property role="2Ry0Am" value="com.strumenta.examples.external" />
-              <node concept="2Ry0Ak" id="3Zs15txtluw" role="2Ry0An">
+              <node concept="2Ry0Ak" id="6ClaYJsg$rj" role="2Ry0An">
                 <property role="2Ry0Am" value="com.strumenta.examples.external.msd" />
               </node>
             </node>
           </node>
         </node>
-        <node concept="1SiIV0" id="3Zs15txtluM" role="3bR37C">
-          <node concept="3bR9La" id="3Zs15txtluN" role="1SiIV1">
+        <node concept="1SiIV0" id="6ClaYJsg$r_" role="3bR37C">
+          <node concept="3bR9La" id="6ClaYJsg$rA" role="1SiIV1">
             <property role="3bR36h" value="true" />
             <ref role="3bR37D" to="ffeo:mXGwHwhVPj" resolve="JDK" />
           </node>
         </node>
-        <node concept="1SiIV0" id="3Zs15txtluO" role="3bR37C">
-          <node concept="3bR9La" id="3Zs15txtluP" role="1SiIV1">
-            <property role="3bR36h" value="false" />
-            <ref role="3bR37D" to="ffeo:1ia2VB5guYy" resolve="MPS.IDEA" />
-          </node>
-        </node>
-        <node concept="1SiIV0" id="3Zs15txtluQ" role="3bR37C">
-          <node concept="3bR9La" id="3Zs15txtluR" role="1SiIV1">
-            <property role="3bR36h" value="false" />
-            <ref role="3bR37D" to="ffeo:1TaHNgiIbIQ" resolve="MPS.Core" />
-          </node>
-        </node>
-        <node concept="1SiIV0" id="3Zs15txtluX" role="3bR37C">
-          <node concept="1BurEX" id="3Zs15txtluY" role="1SiIV1">
-            <node concept="55IIr" id="3Zs15txtluS" role="1BurEY">
-              <node concept="2Ry0Ak" id="3Zs15txtluT" role="iGT6I">
+        <node concept="1SiIV0" id="6ClaYJsg$rG" role="3bR37C">
+          <node concept="1BurEX" id="6ClaYJsg$rH" role="1SiIV1">
+            <node concept="55IIr" id="6ClaYJsg$rB" role="1BurEY">
+              <node concept="2Ry0Ak" id="6ClaYJsg$rC" role="iGT6I">
                 <property role="2Ry0Am" value="solutions" />
-                <node concept="2Ry0Ak" id="3Zs15txtluU" role="2Ry0An">
+                <node concept="2Ry0Ak" id="6ClaYJsg$rD" role="2Ry0An">
                   <property role="2Ry0Am" value="com.strumenta.examples.external" />
-                  <node concept="2Ry0Ak" id="3Zs15txtluV" role="2Ry0An">
+                  <node concept="2Ry0Ak" id="6ClaYJsg$rE" role="2Ry0An">
                     <property role="2Ry0Am" value="libs" />
-                    <node concept="2Ry0Ak" id="3Zs15txtluW" role="2Ry0An">
+                    <node concept="2Ry0Ak" id="6ClaYJsg$rF" role="2Ry0An">
                       <property role="2Ry0Am" value="resources_project.jar" />
                     </node>
                   </node>
